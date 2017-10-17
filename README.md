@@ -1,1 +1,3 @@
-# management-platform
+## 这是一个管理平台的React+antd的应用
+## 现在正在开发中
+## 初学者，练手
